@@ -1,1 +1,1 @@
-#WEEK 2 - Dynamic Array Implementation, Bag and Stack 
+#WEEK 2 - Dynamic array implementation, Bag, and Stack. 

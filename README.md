@@ -17,3 +17,6 @@ Added the Week 2 assignment and lab.
 
 9/13/2023:
 Added Week 3 assignment.
+
+9/26/2023:
+Added Week 4 Lab.
